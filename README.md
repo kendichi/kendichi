@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kendichi
-- 👀 I’m interested in indie game development and coding
-- 🌱 I’m currently learning unity to create an indie game and other programming languages
+- 👀 I’m interested in art, music, movies and video games
+- 🌱 I’m currently learning programming languages for web development
 - 📫 Contact me dichikenneth@gmail.com
 
 <!---
